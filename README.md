@@ -21,6 +21,5 @@ Standalone code to show how to participated in this zindi challenge using TF.Ker
 
 
 ### 3- Instruction about dataset structuring
-- Run the notebook ` 2-dataset_structuring.ipynb ` to create the challenge repository and its sub-folders.
 
 ### 4- Instruction about starter notebook
