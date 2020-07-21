@@ -21,5 +21,6 @@ Standalone code to show how to participated in this zindi challenge using TF.Ker
 
 
 ### 3- Instruction about dataset structuring
+- Run the notebook ` 2-dataset_structuring.ipynb ` to unzip and process the dataset.
 
 ### 4- Instruction about starter notebook
