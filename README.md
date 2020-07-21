@@ -14,6 +14,8 @@ Standalone code to show how to participated in this zindi challenge using TF.Ker
 ### 1- Instruction about folder structure
 -    Run the notebook ` 1-BUILD_REPOSITORY_STRUCTURE.ipynb ` to create the challenge repository and its sub-folders.
 
+-   Move all notebooks in the created challenge repository to its sub-folder ` NOTEBOOKS `.
+
 
 ### 2- Instruction about the dataset
 
