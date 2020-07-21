@@ -26,3 +26,4 @@ Standalone code to show how to participated in this zindi challenge using TF.Ker
 - Run the notebook ` 2-dataset_structuring.ipynb ` to unzip and process the dataset.
 
 ### 4- Instruction about starter notebook
+- Run the notebook ` 4-keras_starter-spot_the_mask.ipynb ` to create your first submission file and make your furst submit on [ZINDI](https://zindi.africa/competitions/zindiweekendz-learning-spot-the-mask-challenge/submit). After that. play with model architecture, augmentations on ImageDataGenerator and all you want to perform better
