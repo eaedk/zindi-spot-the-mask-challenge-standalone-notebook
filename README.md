@@ -4,7 +4,16 @@ Standalone code to show how to participated in this zindi challenge using TF.Ker
 
 ## Instructions
 
+### Instruction about folder structure
+
+
 
 ### Instruction about the dataset
 
 Download challenge dataset on [ZINDI web site](https://zindi.africa/competitions/zindiweekendz-learning-spot-the-mask-challenge/data) and put each file in corresponding sub-folder of the ` DATASET ` folder in regard of file type.
+
+
+### Instruction about dataset structuring
+
+
+### Instruction about starter notebook
