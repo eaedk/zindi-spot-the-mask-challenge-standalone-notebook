@@ -6,7 +6,7 @@ Standalone code to show how to participated in this zindi challenge using TF.Ker
 ## Path update
 -   You have to update ` PATH ` ( path place where the challenge repository will be created ) in notebook ` 1-BUILD_REPOSITORY_STRUCTURE.ipynb `.
 
--   You have to update ` REPO_PATH ` ( path to go to the created repository of mask challenge repository ) in notebook ` 2-dataset_structuring.ipynb `.
+-   You have to update ` REPO_PATH ` ( path to go to the created repository of mask challenge repository ) in notebooks ` 2-dataset_structuring.ipynb ` and ` 4-keras_starter-spot_the_mask.ipynb `.
 
 
 ## Instructions to RUN 
