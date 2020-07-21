@@ -2,18 +2,25 @@
 
 Standalone code to show how to participated in this zindi challenge using TF.Keras on Google Colab. [Read more](https://zindi.africa/competitions/zindiweekendz-learning-spot-the-mask-challenge/)
 
-## Instructions
 
-### Instruction about folder structure
+## Path update
+-   You have to update ` PATH ` ( path place where the challenge repository will be created ) in notebook ` 1-BUILD_REPOSITORY_STRUCTURE.ipynb ` .
 
-
-
-### Instruction about the dataset
-
-Download challenge dataset on [ZINDI web site](https://zindi.africa/competitions/zindiweekendz-learning-spot-the-mask-challenge/data) and put each file in corresponding sub-folder of the ` DATASET ` folder in regard of file type.
+-   You have to update ` REPO_PATH ` ( path to be in the created repository of mask challenge repository ) in notebook ` 2-dataset_structuring.ipynb ` .
 
 
-### Instruction about dataset structuring
+## Instructions to RUN 
+
+### 1- Instruction about folder structure
+-    Run the notebook ` 1-BUILD_REPOSITORY_STRUCTURE.ipynb ` to create the challenge repository and its sub-folders.
 
 
-### Instruction about starter notebook
+### 2- Instruction about the dataset
+
+-   Download challenge dataset on [ZINDI web site](https://zindi.africa/competitions/zindiweekendz-learning-spot-the-mask-challenge/data) and put each file in corresponding sub-folder of the ` DATASET ` folder in regard of file type.
+
+
+### 3- Instruction about dataset structuring
+- Run the notebook ` 2-dataset_structuring.ipynb ` to create the challenge repository and its sub-folders.
+
+### 4- Instruction about starter notebook
